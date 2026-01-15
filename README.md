@@ -18,3 +18,4 @@ Customer Segmentation using K-Means  This project uses K-Means clustering to seg
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+connect me on www.linkedin.com/in/harish-karthick-399116263
